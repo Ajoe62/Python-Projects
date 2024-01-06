@@ -1,0 +1,1 @@
+This code generates a random password with a specified length, chosen from a predetermined set of characters. The password is then displayed to the user.
